@@ -17,7 +17,7 @@ Credits:
 ; edit to your CUSA title id
 ; example here is US version
 [CUSA00419]
-/data/GoldHEN/plugins/gtaPayload_132.sprx=true
+/data/GoldHEN/plugins/gtaPayload_148.sprx=true
 ```
 
 - Launch game and load into singleplayer (you should see notification that menu is loaded during load screen)
