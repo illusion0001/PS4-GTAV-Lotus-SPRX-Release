@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/illusion0001/PS4-GTAV-Lotus-SPRX-Release/main/logo.png">
+</p>
+
 # PS4-GTAV-Lotus-SPRX-Release
 
 Releases for PS4 Mod Menu Lotus for Grand Theft Auto V by [0x199](https://github.com/0x199) and ported to GoldHEN PRX by [illusion](https://github.com/illusion0001)
